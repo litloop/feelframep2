@@ -1,0 +1,154 @@
+{
+  "id": "product-05",
+  "featured": false,
+  "campaign": "Dindu Creative — Break The Frame",
+  "emotion": "Confidence",
+  "moment": "Turning your digital identity into a physical statement.",
+  "title": "Luxury Instagram Breakout",
+  "quote": "Your photo. Now it breaks the frame.",
+  "context": "A premium visual transformation that turns an ordinary portrait into a high-end luxury advertising campaign. The subject appears to physically break through a three-dimensional Instagram post card, creating the illusion that their digital identity has become tangible.",
+  "description": "Create an ultra-premium, glossy, dark luxury Instagram post mockup in which the person from the uploaded photo dramatically breaks through a realistic physical Instagram card. The result combines luxury editorial photography, premium product design, and photorealistic 3D compositing.",
+  "style": "Luxury Editorial",
+  "visualLanguage": [
+    "Cinematic",
+    "Luxury",
+    "Editorial",
+    "Photorealistic",
+    "Dark & Moody",
+    "3D Commercial",
+    "Premium Technology Advertising"
+  ],
+  "condition": "Best created using a clear, high-resolution portrait where the subject's face is unobstructed and identity can be accurately preserved.",
+  "recipe": {
+    "concept": "A real person physically breaking through a premium, dark Instagram post card.",
+    "composition": "Center the subject within a thick, slightly curved Instagram card. Create a convincing torn opening around the emerging body, with one arm extending beyond the card toward the viewer while the other remains partially inside the frame.",
+    "subject": {
+      "identitySource": "Uploaded photograph",
+      "identityPriority": "Critical",
+      "preserve": [
+        "Exact recognizable facial identity",
+        "Facial structure",
+        "Face shape",
+        "Skin tone",
+        "Eyes",
+        "Nose",
+        "Lips",
+        "Jawline",
+        "Beard or facial hair",
+        "Hairstyle",
+        "Natural facial proportions",
+        "Overall recognizable appearance"
+      ],
+      "wardrobe": [
+        "Matte-black bomber jacket",
+        "Black T-shirt",
+        "Black trousers",
+        "Stainless-steel wristwatch",
+        "Silver chain",
+        "Black sunglasses"
+      ],
+      "pose": "Confident, dynamic, anatomically realistic, with one arm extending naturally toward the viewer through the torn opening.",
+      "anatomy": "Correct human anatomy, natural proportions, realistic hands and fingers, physically believable interaction with the card."
+    },
+    "card": {
+      "material": "Premium matte-black paper",
+      "shape": "Slightly curved, thick, substantial, rounded corners",
+      "surface": [
+        "Subtle embossed details",
+        "Realistic paper fibers",
+        "Controlled glossy reflections",
+        "Visible dimensional thickness",
+        "Realistic edges"
+      ],
+      "tear": [
+        "Realistic torn fibers",
+        "Physical folds",
+        "Creases",
+        "Raised paper edges",
+        "Natural contact shadows",
+        "Believable paper deformation around the subject"
+      ]
+    },
+    "instagramInterface": {
+      "style": "Sophisticated dark Instagram-style interface",
+      "header": {
+        "profilePicture": "Use the uploaded person's face",
+        "username": "dindu.creative",
+        "verified": true,
+        "menu": "Three-dot menu"
+      },
+      "icons": [
+        "Like",
+        "Comment",
+        "Share",
+        "Bookmark"
+      ],
+      "iconStyle": "Premium monochrome",
+      "hierarchy": "Clean spacing and realistic social-media UI proportions"
+    },
+    "text": {
+      "primary": "Design. Create. Inspire.",
+      "hashtag": "#dinducreative",
+      "exactTextRequired": true,
+      "spellingAccuracy": "Critical",
+      "typography": "Crisp, professionally aligned, clean and highly legible"
+    },
+    "environment": {
+      "background": "Luxurious deep-black background",
+      "atmosphere": "Subtle cinematic smoke around the card and subject without obscuring the face or interface",
+      "lighting": [
+        "Soft cinematic spotlight",
+        "Subtle amber rim lighting",
+        "Deep controlled shadows",
+        "Cinematic HDR illumination",
+        "Realistic ambient occlusion",
+        "Subtle volumetric atmosphere"
+      ]
+    },
+    "materials": [
+      "Ultra-realistic paper fibers",
+      "Matte-black paper",
+      "Embossed details",
+      "Glossy surfaces",
+      "Stainless-steel reflections",
+      "Realistic sunglasses reflections",
+      "Natural fabric texture",
+      "Realistic skin texture"
+    ],
+    "rendering": [
+      "Ray-traced reflections",
+      "Accurate contact shadows",
+      "Subtle highlights",
+      "Photorealistic depth",
+      "Photorealistic perspective",
+      "Cinematic HDR"
+    ],
+    "artDirection": [
+      "Apple-style premium advertising",
+      "Behance showcase quality",
+      "Dribbble showcase quality",
+      "Luxury editorial photography",
+      "High-end 3D commercial design"
+    ]
+  },
+  "commands": [
+    "Preserve the uploaded person's identity exactly and naturally.",
+    "Replace any original character completely with the person from the uploaded photograph.",
+    "Make the Instagram card feel like a real physical luxury object.",
+    "Make the torn paper physically believable around the emerging body.",
+    "Extend one arm naturally toward the viewer with convincing depth and perspective.",
+    "Keep the other arm partially inside the Instagram frame.",
+    "Separate the black clothing, black card, and black background using controlled lighting.",
+    "Keep the face unobstructed and recognizable.",
+    "Make all typography crisp, correctly spelled, and professionally aligned.",
+    "Maintain realistic anatomy, hands, fingers, proportions, and perspective.",
+    "Make the final image feel tactile, expensive, cinematic, and professionally art-directed."
+  ],
+  "negativePrompt": "cartoon, illustration, anime, generic model, different person, altered identity, distorted face, deformed face, blurry face, artificial facial features, excessive beauty retouching, plastic skin, incorrect anatomy, extra fingers, missing fingers, fused fingers, malformed hands, extra limbs, duplicated body parts, warped arms, unnatural perspective, floating objects, broken paper physics, low-quality CGI, cheap mockup, flat lighting, excessive smoke, cluttered background, illegible text, misspelled text, incorrect username, random logos, random UI elements, watermark, A4 paper appearance, unrelated objects, low resolution, oversharpening, unnatural proportions",
+  "image": "IMG_XXXX",
+  "ratio": "4:5",
+  "promptTitle": "Luxury Instagram Breakout — Premium 3D Visual",
+  "price": 1200,
+  "compareAt": 1800,
+  "selarUrl": "https://selar.com/918t15c498"
+}
